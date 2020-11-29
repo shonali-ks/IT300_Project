@@ -7,5 +7,4 @@ Solving rubix cube
 - In main.py change the input files manually
 - python3 main.py
 
-# Video link:- 
-[Video](https://drive.google.com/drive/u/1/folders/1DYePQqwxrdKPnIvAt0Rp_rCePawf4Vaq)
+# Video and ppt:- [Link](https://drive.google.com/drive/u/1/folders/1DYePQqwxrdKPnIvAt0Rp_rCePawf4Vaq)
